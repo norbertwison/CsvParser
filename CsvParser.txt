@@ -1,0 +1,6 @@
+Name;Age;Gender;School
+Nowi;16;Male;M2
+Momogi;76;Male;Venus
+Peter;99;Male;M2
+Momo;100;Female;MArs
+Gigi;9;Female;Bru...
